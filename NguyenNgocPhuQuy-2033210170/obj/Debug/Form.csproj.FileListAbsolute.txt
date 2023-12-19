@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\obj\Debug\NguyenNgocPhuQuy_2033210170.Form1.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\obj\Debug\NguyenNgocPhuQuy_2033210170.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\obj\Debug\Form.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\obj\Debug\NguyenNgocPhuQuy-2033210170.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\obj\Debug\NguyenNgocPhuQuy-2033210170.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\bin\Debug\NguyenNgocPhuQuy-2033210170.exe.config
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\bin\Debug\NguyenNgocPhuQuy-2033210170.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\bin\Debug\NguyenNgocPhuQuy-2033210170.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy-2033210170\NguyenNgocPhuQuy-2033210170\obj\Debug\NguyenNgocPhuQuy_2033210170.Form2.resources
